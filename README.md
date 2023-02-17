@@ -1,5 +1,5 @@
 # GuitarShop_v1
-
+The project is written using a local Microsoft SQL Server database
 # Registration and authorization pages:
 ![image](https://user-images.githubusercontent.com/62800741/219702594-23d4a47a-9bfb-4a4a-8dbb-151e4045f87d.png)
 
